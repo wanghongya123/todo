@@ -1,7 +1,7 @@
 {
   "name": "todo",
   "version": "0.1.0",
-  "homepage": "http://myname.github.io/myapp",
+  "homepage": "http://wanghongya123.github.io/todo",
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
